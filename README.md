@@ -47,10 +47,3 @@
 | Cost and latency | Prompt caching, model routing by task, token budgets, streaming responses in the UI. |
 | Safety and privacy | PII redaction before requests leave the device, guardrails, human approval on destructive agent actions. |
 | Team adoption | Guidelines for AI-assisted work, review standards for generated code, measuring impact on cycle time. |
-
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Christian-SC26/Christian-SC26/output/snake-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/Christian-SC26/Christian-SC26/output/snake.svg" alt="Contribution graph" />
-</picture>
